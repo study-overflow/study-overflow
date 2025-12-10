@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Zhang Zhang.
 
- 📫 [email](mailto:z-z23@mails.tsinghua.edu.cn) | 🌐 [Homepage]() 
+ 📫 [email](mailto:z-z23@mails.tsinghua.edu.cn) | 🌐 [Homepage](zzhang.tech) 
 
 ## About Me
 - 🎓 Undergraduate at Department of Automation, Tsinghua University  
